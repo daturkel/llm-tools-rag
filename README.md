@@ -21,7 +21,7 @@ Use `-T RAG` to enable the RAG tools. You can specify a non-default database wit
 
 
 ```bash
-llm -m claude-4-sonnet -T RAGTools "what are the available plugin hooks in llm?"
+llm -m claude-4-sonnet -T RAG "what are the available plugin hooks in llm?"
 ```
 
 ## Development
